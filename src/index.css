@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: orange;
+}
+.btn{
+    color: white;
+    background-color: green;
+    font-size: large;
+    text-align: center;
+    width: 400px;
+
+}
+.btnd{
+    color: white;
+    background-color: red;
+    font-size: large;
+    width: 400px;
+
+
+}
+.blu{
+    color: blue;
+    background-color:darkseagreen;
+}
+.b{
+    display:inline-flexbox;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    border: 2px solid black;
+    padding: 10px;
+    width: 550px;
+    margin-left: 350px;
+    background-color: aqua;
+}
