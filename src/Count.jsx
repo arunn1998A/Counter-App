@@ -20,7 +20,7 @@ setdecrement(decrement-1)
     <h1 className='blu'  >{increment}</h1>
 
 <br />
-    <button className='btn'  onClick={btn} >Count</button>
+    <button className='btn'  onClick={btn} >Increment</button>
 
     <br /><br />
     
@@ -28,7 +28,7 @@ setdecrement(decrement-1)
     <h1 className='blu' >{decrement}</h1>
 <br />
 
-    <button className='btnd'  onClick={btns} >Count</button>
+    <button className='btnd'  onClick={btns} >Decrement</button>
 
     </div>
     
